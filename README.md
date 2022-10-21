@@ -1,2 +1,1 @@
-# Dollhouse-Roleplay-Daily-Reward-Booster-
-Need daily reward shown on screen
+## Need daily reward shown on screen
